@@ -2,7 +2,7 @@
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=4in]{photo.png}
+\includegraphics[width=4in]{photo.jpg}
 \caption{世紀難題}
 \end{figure}
 
@@ -40,7 +40,7 @@
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=5in]{ex1.png}
+\includegraphics[width=5in]{ex1.jpg}
 \end{figure}
 
 ## 範例輸入 2
@@ -51,7 +51,7 @@
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=5in]{ex2.png}
+\includegraphics[width=5in]{ex2.jpg}
 \end{figure}
 
 ## 範例輸出 2
@@ -70,5 +70,5 @@
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=5in]{ex3.png}
+\includegraphics[width=5in]{ex3.jpg}
 \end{figure}
