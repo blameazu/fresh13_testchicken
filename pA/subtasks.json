@@ -1,6 +1,6 @@
 {
     "global_validators": [
-        "validator.cpp"
+        "val.cpp"
     ],
     "subtasks": {
         "samples": {
@@ -9,9 +9,15 @@
             "text": "範例輸入輸出",
             "validators": []
         },
-        "full": {
+        "allpos": {
             "index": 1,
-            "score": 100,
+            "score": 50,
+            "text": "$1 \\le A \\le 100, 1 \\le B \\le 100$",
+            "validators": ["val-2.cpp"]
+        },
+        "full": {
+            "index": 2,
+            "score": 50,
             "text": "無額外限制",
             "validators": []
         }
