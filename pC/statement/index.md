@@ -2,7 +2,7 @@
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=5in]{photo.png}
+\includegraphics[width=5in]{photo.jpg}
 \caption{猜}
 \end{figure}
 
