@@ -1,0 +1,22 @@
+sol.cpp
+solution            compile[WARN]
+checker             compile[WARN]
+0-01                sol[OK]    0.011     check[OK]        1  [Correct]               
+full                [1/1 tests]    [Correct]             [100/100 pts]  [match with expected]             0-01
+
+Subtask summary
+100/100 pts
+
+Finished.
+
+rnd.cpp
+solution            compile[WARN]
+checker             compile[WARN]
+0-01                sol[OK]    0.011     check[OK]   0.3749  [Partially Correct]     0.37486001570
+full                [1/1 tests]    [Partially Correct]   [37.49/100 pts]    [expected: incorrect]             0-01
+
+Subtask summary
+37.49/100 pts
+
+Finished.
+
