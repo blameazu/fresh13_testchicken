@@ -1,31 +1,46 @@
-# TODO: 題目名稱
+# 好多堵好高好大的牆
 
-<!-- \begin{figure}[h]
+\begin{figure}[h]
 \centering
-\includegraphics[width=2in]{TODO.jpg}
-\caption{TODO: 圖片說明}
-\end{figure} -->
+\includegraphics[width=2in]{photo.png}
+\caption{Brinton 好牆}
+\end{figure}
 
-TODO: 題目敘述
+你是打競程的人，一定會在競程的路上遇到你人生中的很高很大的牆。
+
+或許不是一堵，是很多堵。
+
+但跨牆也是得靠點技術以及運氣的。
+
+當你擁有能力值 $V$ 時，你的面前有一堵比能力值 $V$ 還高的高為 $H$ 的牆，你總共會花費 $H-V$ 的時間通過，並且你的能力將會大幅增加 $H$。
+
+而當你遇見一堵比你能力值 $V$ 還低的牆，你會選擇瘋狂嘲諷他，畢竟那都不算是一座牆了。
+
+今天給你 $N$ 堵牆，每座牆都有各自的高度 $H_i$，你一開始擁有能力值 $V$
+
+假如你要讓你的最終能力值 $V'$ $\ge$ $\max{(H_1, H_2, \ldots, H_N)}$，你需要花費的最少時間為多少。
 
 \clearpage
 
 ## 輸入
-TODO: 輸入說明
+第一行輸入二整數 $N$ $V$
+第二行輸入 $N$ 個正整數 $H_i$
 
 ## 輸出
-TODO: 輸出說明
+輸出答案。
 
 ## 輸入限制
- - TODO: 輸入限制
+ - $1 \le N \le 2 \cdot 10^5$
+ - $1 \le V \le 10^9$
+ - $1 \le H_i \le 10^9$
 
 ## 子任務
 \subtasks
 
 \clearpage
 
-## 範例輸入
+## 範例輸入 1
 \testfile{0-01.in}
 
-## 範例輸出
+## 範例輸出 1
 \testfile{0-01.out}

@@ -1,0 +1,16 @@
+# test_name gen_line_number gen_line_content
+0-01	  2	manual sample-01.in
+1-01	  5	gen 3 0 1 sdkfj
+1-02	  6	gen 200000 0 1 dskjfla
+1-03	  7	gen 200000 34223 1 sdjfkl
+1-04	  8	gen 200000 3748282 1 scvsdfho
+1-05	  9	gen 200000 88 3 0jcxvs
+1-06	 10	gen 200000 86 3 mcvx
+1-07	 11	gen 200000 87 3 weijfsd
+2-01	 14	gen 3 0 2 sdkjfl
+2-02	 15	gen 200000 88 3 sdkjflsjd
+2-03	 16	gen 200000 86 3 weijfsiod
+2-04	 17	gen 200000 87 3 udsfjc
+2-05	 18	gen 200000 0 2 weiouosdf
+2-06	 19	gen 200000 3427897 2 wueiroudjfs
+2-07	 20	gen 200000 2348023 2 sdfuioe
