@@ -2,7 +2,7 @@
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=2in]{photo.png}
+\includegraphics[width=2in]{photo.jpg}
 \caption{Brinton 好牆}
 \end{figure}
 
