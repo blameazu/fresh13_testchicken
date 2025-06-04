@@ -1,5 +1,8 @@
 {
-	"correct.cpp": {
+	"sol.cpp": {
 		"verdict": "model_solution"
+	},
+	"rnd.cpp": {
+		"verdict": "incorrect"
 	}
 }

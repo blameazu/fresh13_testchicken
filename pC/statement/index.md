@@ -1,31 +1,33 @@
-# TODO: 題目名稱
+# 猜
 
-<!-- \begin{figure}[h]
+\begin{figure}[h]
 \centering
-\includegraphics[width=2in]{TODO.jpg}
-\caption{TODO: 圖片說明}
-\end{figure} -->
+\includegraphics[width=5in]{photo.png}
+\caption{猜}
+\end{figure}
 
-TODO: 題目敘述
+猜一個範圍在 $[1, 10000]$ 內的整數，系統也會猜一個範圍在 $[1, 10000]$ 內的整數
+
+假如你猜的數字是 $X$，系統猜的數字是 $Y$
+
+那麼你獲得到的分數為
+
+$$
+Score(X, Y) = 100 \times (1 - (\frac{\vert X - Y \vert}{10000})^{\frac{1}{2}})
+$$
+
+
 
 \clearpage
 
 ## 輸入
-TODO: 輸入說明
+沒輸入
 
 ## 輸出
-TODO: 輸出說明
-
-## 輸入限制
- - TODO: 輸入限制
+你要輸出你猜的數字
 
 ## 子任務
 \subtasks
 
-\clearpage
-
-## 範例輸入
-\testfile{0-01.in}
-
-## 範例輸出
-\testfile{0-01.out}
+## hint
+這題也許有滿分解:)

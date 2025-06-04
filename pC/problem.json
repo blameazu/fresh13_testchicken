@@ -1,8 +1,8 @@
 {
-	"contest_name": "TODO: 競賽名稱",
+	"contest_name": "高一生程式設計排名賽環境測試賽",
 	"problem_label": "C",
-	"name": "TODO:_English_short_name",
-	"title": "TODO: 題目名稱",
+	"name": "Fresh13Test_Guess",
+	"title": "猜",
 	"memory_limit": 512,
 	"time_limit": 1.0,
 	"type": "Batch",
@@ -12,12 +12,12 @@
 	"feedback_level": "full",
 	"max_submission_number": null,
 	"max_user_test_number": null,
-	"min_submission_interval": 120,
+	"min_submission_interval": 30,
 	"min_user_test_interval": null,
 	"score_precision": 0,
 	"score_mode": "max_subtask",
 	"task_type": "Batch",
 	"task_type_params": "{\"task_type_parameters_Batch_compilation\": \"alone\"}",
-	"has_checker": false,
+	"has_checker": true,
 	"score_type": "GroupMin"
 }

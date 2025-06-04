@@ -1,18 +1,12 @@
 {
     "global_validators": [
-        "validator.cpp"
+        
     ],
     "subtasks": {
-        "samples": {
-            "index": 0,
-            "score": 0,
-            "text": "範例輸入輸出",
-            "validators": []
-        },
         "full": {
-            "index": 1,
+            "index": 0,
             "score": 100,
-            "text": "無額外限制",
+            "text": "這就是全部了",
             "validators": []
         }
     }
