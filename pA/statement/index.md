@@ -43,8 +43,13 @@
 \includegraphics[width=5in]{ex1.jpg}
 \end{figure}
 
+\clearpage
+
 ## 範例輸入 2
 \testfile{0-02.in}
+
+## 範例輸出 2
+\testfile{0-02.out}
 
 ## 範例解釋 2
 資優題型，加法已經達到 $10$ 以上了，必須往下一高位累加。
@@ -54,8 +59,7 @@
 \includegraphics[width=5in]{ex2.jpg}
 \end{figure}
 
-## 範例輸出 2
-\testfile{0-02.out}
+\clearpage
 
 ## 範例輸入 3
 \testfile{0-03.in}
